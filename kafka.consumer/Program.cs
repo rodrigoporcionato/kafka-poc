@@ -22,13 +22,21 @@ namespace kafka.consumer
 
             using (var consumer = new ConsumerBuilder<Ignore, string>(config).Build())
             {
-                consumer.Subscribe(Configuration.Topic);
+               consumer.Subscribe(Configuration.Topic);
 
                 while (true)
                 {
-                    var consumeResult = consumer.Consume(TimeSpan.FromSeconds(5000));
-                    Console.WriteLine(consumeResult.Message.Value);
-                }
+                    try
+                    {
+                        var consumeResult = consumer.Consume(TimeSpan.FromSeconds(5000));
+                        Console.WriteLine($"Offset.Value?{consumeResult?.Offset.Value}, MSG={consumeResult?.Message?.Value}");
+                    }
+                    catch (Exception ex)
+                    {
+                        Console.WriteLine($"ERRO NO CONSUMO DA MSSG: {ex}");
+                    }                    
+                }                
+                
             }
         }
     }
