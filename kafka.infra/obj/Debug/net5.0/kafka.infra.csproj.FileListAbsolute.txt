@@ -1,0 +1,12 @@
+C:\Users\U003921\source\repos\kafka-poc\kafka.infra\bin\Debug\net5.0\kafka.infra.deps.json
+C:\Users\U003921\source\repos\kafka-poc\kafka.infra\bin\Debug\net5.0\kafka.infra.dll
+C:\Users\U003921\source\repos\kafka-poc\kafka.infra\bin\Debug\net5.0\ref\kafka.infra.dll
+C:\Users\U003921\source\repos\kafka-poc\kafka.infra\bin\Debug\net5.0\kafka.infra.pdb
+C:\Users\U003921\source\repos\kafka-poc\kafka.infra\obj\Debug\net5.0\kafka.infra.csproj.AssemblyReference.cache
+C:\Users\U003921\source\repos\kafka-poc\kafka.infra\obj\Debug\net5.0\kafka.infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\U003921\source\repos\kafka-poc\kafka.infra\obj\Debug\net5.0\kafka.infra.AssemblyInfoInputs.cache
+C:\Users\U003921\source\repos\kafka-poc\kafka.infra\obj\Debug\net5.0\kafka.infra.AssemblyInfo.cs
+C:\Users\U003921\source\repos\kafka-poc\kafka.infra\obj\Debug\net5.0\kafka.infra.csproj.CoreCompileInputs.cache
+C:\Users\U003921\source\repos\kafka-poc\kafka.infra\obj\Debug\net5.0\kafka.infra.dll
+C:\Users\U003921\source\repos\kafka-poc\kafka.infra\obj\Debug\net5.0\ref\kafka.infra.dll
+C:\Users\U003921\source\repos\kafka-poc\kafka.infra\obj\Debug\net5.0\kafka.infra.pdb

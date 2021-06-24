@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ONPRx6vUJliLjQENdnFMXyCjbwV+XteyDGjLlbaMwRbnrP8uzC0/aubKCAqyDtE2peCJxzno7WmxjYbtGXBTeg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\U003921\\source\\repos\\kafka-poc\\kafka.producer\\kafka.producer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\U003921\\.nuget\\packages\\confluent.kafka\\1.7.0\\confluent.kafka.1.7.0.nupkg.sha512",
+    "C:\\Users\\U003921\\.nuget\\packages\\librdkafka.redist\\1.7.0\\librdkafka.redist.1.7.0.nupkg.sha512",
+    "C:\\Users\\U003921\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\U003921\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
